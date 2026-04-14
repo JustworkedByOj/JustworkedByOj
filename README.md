@@ -21,8 +21,6 @@
 | `LINKEDIN` | [Orlando Fornolles Jr.](https://www.linkedin.com/in/orlando-fornolles-jr-bbb8103b1/) |
 | `TWITTER` | [@ItworkedByOj](https://x.com/ItworkedByOj) |
 
----
 
-<sub>© 2026 Orlando Fornolles Jr. — Designed & Developed with precision</sub>
 
 </div>
