@@ -3,13 +3,17 @@
 # ORLANDO FORNOLLES JR.
 ### `SOFTWARE DEVELOPER`
 
-*Building clean, purposeful digital experiences with modern web technologies.*
+*Junior Software Developer | AI-Native Developer | Modern Web Technologies | Committed to Innovate*
 
 ---
 
 **[ PORTFOLIO ]**
 
 **[itworkedbyoj-portfolio.netlify.app](https://itworkedbyoj-portfolio.netlify.app/)**
+
+**[ PROJECT ]**
+
+**[PDFStudio - pdfstudiofree.netlify.app](https://pdfstudiofree.netlify.app/)**
 
 ---
 
