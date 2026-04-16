@@ -1,6 +1,6 @@
-# Hi 👋, I'm Orlando
+<h1 align="center">Hi 👋, I'm Orlando</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=1000&color=0080FF&center=true&vCenter=true&width=800&lines=I+welcome+opportunities+to+collaborate;on+projects+that+demand+both;technical+excellence+and+creative+vision.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=1000&color=0080FF&center=true&vCenter=true&width=600&lines=I+welcome+opportunities+to+collaborate;on+projects+that+demand+both;technical+excellence+and+creative+vision.)](https://git.io/typing-svg)
 
 ---
 
