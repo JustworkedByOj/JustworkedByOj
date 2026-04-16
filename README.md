@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there 👋, I'm OJ.
+# Hey there 👋, I'm OJ.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=5000&pause=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=🛠️+I+build+tools+that+create+real-world+impact.;🚀+I'm+currently+working+on+multiple+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=5000&pause=3000&color=2F81F7&center=true&vCenter=true&width=600&repeat=false&lines=🛠️+I+build+tools+that+create+real-world+impact.;🤝+Contact+me+to+collaborate.)](https://git.io/typing-svg)
 
 ---
 
