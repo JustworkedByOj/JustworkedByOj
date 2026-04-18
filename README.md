@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm OJ.
+# Hi there 👋, I'm OJ.
 
 **Software Developer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=4000&pause=2000&color=2F81F7&center=true&vCenter=true&width=500&repeat=true&lines=🤖+Bridging+AI+and+Modern+Web+Development;🌐+Building+scalable+web+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=4000&pause=2000&color=2F81F7&center=true&vCenter=true&width=500&repeat=true&lines=🤖+Bridging+AI+and+Modern+Web+Development;🌐+Building+scalable+web+applications;💡+I+believe+every+project+is+an+opportunity+to+push+boundaries+and+deliver+excellence)](https://git.io/typing-svg)
 
 ---
 
