@@ -1,6 +1,6 @@
 <div align="center">
 
-# Orlando Fornolles Jr.
+# Hi there! I'm Oj 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Developer;Building+scalable+digital+solutions;Problem+Solver" alt="Typing SVG" />
 
